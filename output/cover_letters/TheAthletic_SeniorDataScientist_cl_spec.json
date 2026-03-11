@@ -1,0 +1,10 @@
+{
+  "candidate": {
+    "name": "Rohit Ananthan",
+    "contact": "rohitananthan123@gmail.com  |  linkedin.com/in/rohit-ananthan  |  rohitananthan.info"
+  },
+  "date": "March 11, 2026",
+  "company": "The Athletic",
+  "role": "Senior Data Scientist",
+  "body": "Dear Hiring Team,\n\nI'm a data scientist with 4+ years building production ML systems that drive product growth and user retention -- and I'm applying for the Senior Data Scientist role at The Athletic.\n\nThe Athletic is a subscription sports media product where data science directly determines what users see, which free readers convert, and how to keep subscribers engaged. That's the intersection of ML and product impact I find most interesting.\n\nWhat I'd bring on day one: I've built the exact systems this role requires. At Kameleon, I built a subscription churn prediction model using survival analysis and gradient boosting that answered precisely the question -- which users are most likely to churn and when -- and informed retention campaigns that lifted 90-day retention by 12-15%. I also built content segmentation models and led the full MLOps lifecycle (MLflow, SageMaker) from experiment tracking through production deployment and automated retraining. At Community Dreams Foundation, I built a RAG-based retrieval pipeline (LangChain, LlamaIndex, Gemini Pro) that surfaces the right content to users at the right time -- structurally identical to article recommendation.\n\nThe work I'd point to as most directly relevant: the churn prediction and segmentation system at Kameleon is the same problem The Athletic is solving, just applied to transactions instead of sports subscriptions. I've run that full lifecycle -- data pipeline, model, experiment design, production deployment, executive dashboard -- and I know the edge cases.\n\nI'm the kind of hire who leads projects with hands-on analysis and modeling while still communicating clearly to product and growth partners. My portfolio is at rohitananthan.info.\n\nWould love to connect.\n\nRohit Ananthan\nrohitananthan123@gmail.com  |  linkedin.com/in/rohit-ananthan  |  rohitananthan.info"
+}

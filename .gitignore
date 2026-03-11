@@ -1,0 +1,29 @@
+# Sensitive / auth
+sessions/
+chrome_profile/
+chrome_profile_Default/
+*.flag
+
+# Generated outputs (large binaries)
+output/resumes/*.docx
+output/cover_letters/*.docx
+output/outreach_drafts/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Claude Code local settings (machine-specific)
+.claude/settings.local.json
+.claude/scheduled_tasks.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials
+*.keys.json
+*.oauth.json

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-03-11T17:10:00Z",
+  "applications": [
+    {
+      "id": "teramind-senior-ds-2026-03-11",
+      "company": "Teramind",
+      "role": "Senior Data Scientist",
+      "job_url": "https://jobs.lever.co/teramind/ee612ae9-3a94-401e-9dd2-8b082eb157a1",
+      "score": 81,
+      "status": "dry_run",
+      "applied_date": "2026-03-11",
+      "resume_path": "output/resumes/Teramind_SeniorDataScientist_Resume.docx",
+      "cover_letter_path": "output/cover_letters/Teramind_SeniorDataScientist_CoverLetter.docx",
+      "outreach_draft": "output/outreach_drafts/Teramind_SeniorDataScientist_outreach.md",
+      "notes": "Remote global. Building new DS org from scratch — great opportunity. H1B history unknown, research needed.",
+      "follow_up_dates": ["2026-03-16", "2026-03-21"]
+    },
+    {
+      "id": "ageoflearning-senior-ds-2026-03-11",
+      "company": "Age of Learning",
+      "role": "Senior Data Scientist",
+      "job_url": "https://jobs.lever.co/aofl/054e50b9-6b2d-4126-add0-c69d1c193a01",
+      "score": 79,
+      "status": "dry_run",
+      "applied_date": "2026-03-11",
+      "resume_path": "output/resumes/AgeOfLearning_SeniorDataScientist_Resume.docx",
+      "cover_letter_path": "output/cover_letters/AgeOfLearning_SeniorDataScientist_CoverLetter.docx",
+      "outreach_draft": "output/outreach_drafts/AgeOfLearning_SeniorDataScientist_outreach.md",
+      "notes": "EdTech SaaS. 45 H1B LCAs filed 2022-2024 — confirmed sponsor. Salary $140k-$170k.",
+      "follow_up_dates": ["2026-03-16", "2026-03-21"]
+    },
+    {
+      "id": "theathletic-senior-ds-2026-03-11",
+      "company": "The Athletic",
+      "role": "Senior Data Scientist",
+      "job_url": "https://jobs.lever.co/theathletic/b656b418-9d38-4a22-ba2c-227ec5f4ba5a",
+      "score": 80,
+      "status": "dry_run",
+      "applied_date": "2026-03-11",
+      "resume_path": "output/resumes/TheAthletic_SeniorDataScientist_Resume.docx",
+      "cover_letter_path": "output/cover_letters/TheAthletic_SeniorDataScientist_CoverLetter.docx",
+      "outreach_draft": "output/outreach_drafts/TheAthletic_SeniorDataScientist_outreach.md",
+      "notes": "NYT-backed subscription media. Strong product/ML fit. H1B likely given NYT parent company size.",
+      "follow_up_dates": ["2026-03-16", "2026-03-21"]
+    }
+  ]
+}

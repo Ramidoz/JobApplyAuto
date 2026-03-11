@@ -1,0 +1,40 @@
+{
+  "personal": {
+    "first_name": "Rohit",
+    "last_name": "Ananthan",
+    "full_name": "Rohit Ananthan",
+    "email": "rohitananthan123@gmail.com",
+    "phone": "2029899596",
+    "phone_formatted": "(202) 989-9596",
+    "linkedin": "https://www.linkedin.com/in/rohit-ananthan",
+    "github": "https://github.com/Ramidoz",
+    "portfolio": "https://rohitananthan.info",
+    "location": "United States",
+    "city": "Washington",
+    "state": "DC"
+  },
+  "work_eligibility": {
+    "authorized_to_work_us": "Yes",
+    "require_sponsorship_now": "No",
+    "visa_status": "OPT",
+    "citizenship": "Not a US Citizen or Permanent Resident"
+  },
+  "experience": {
+    "years": "4",
+    "years_label": "3+",
+    "current_title": "Data Scientist",
+    "highest_degree": "Master's"
+  },
+  "compensation": {
+    "salary_min": 120000,
+    "salary_max": 180000,
+    "salary_midpoint": 150000,
+    "salary_string": "150000",
+    "preferred_string": "120,000 - 180,000"
+  },
+  "preferences": {
+    "remote": true,
+    "willing_to_relocate": false,
+    "employment_type": "Full-time"
+  }
+}

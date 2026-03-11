@@ -1,0 +1,66 @@
+{
+  "candidate": {
+    "name": "Rohit Ananthan",
+    "tagline": "Senior Data Scientist  |  Anomaly Detection  |  Behavioral ML  |  Production AI Systems",
+    "contact": "+1 (202) 989-9596  |  rohitananthan123@gmail.com  |  linkedin.com/in/rohit-ananthan  |  rohitananthan.info"
+  },
+  "profile": "Data Scientist with 4+ years building production ML systems for anomaly detection, behavioral signal analysis, and intelligent automation -- owning the full lifecycle from raw signals to deployed models. Deep experience with transformer-based pipelines, graph-based fraud detection, A/B testing, and causal inference in fast-moving remote-first teams.",
+  "skills": [
+    {"label": "Languages & ML", "value": "Python (pandas, NumPy, scikit-learn, PySpark), SQL, R, XGBoost, Random Forest, transformer models, anomaly detection, graph ML (Neo4j), NLP, survival analysis"},
+    {"label": "Experimentation", "value": "A/B testing, causal inference, statistical significance, hypothesis design, metric frameworks"},
+    {"label": "AI & LLMs", "value": "RAG pipelines, LangChain, LlamaIndex, Gemini Pro, prompt engineering, embedding search, MLflow"},
+    {"label": "Data & Cloud", "value": "DBT, Airflow, Snowflake, BigQuery, PostgreSQL, PySpark, AWS (S3, EC2, Lambda, SageMaker), GCP (BigQuery, Vertex AI), Docker"},
+    {"label": "Visualization", "value": "Tableau, Power BI, Neo4j, matplotlib, seaborn"}
+  ],
+  "experience": [
+    {
+      "title": "Data Scientist Consultant",
+      "company": "Invision Global Tech Inc.",
+      "dates": "Feb 2026 - Present",
+      "location": "United States, Remote",
+      "bullets": [
+        "Scoping and prototyping ML pipelines for fraud detection and NLP classification using Python, XGBoost, and transformer-based models -- directly analogous to behavioral signal modeling.",
+        "Designing experiment frameworks and metric tracking infrastructure for rapid A/B testing and model evaluation across client deployments."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Community Dreams Foundation",
+      "dates": "Feb 2025 - Feb 2026",
+      "location": "United States, Remote",
+      "bullets": [
+        "Built an AI Voice FAQ Assistant (Gemini Pro, LangChain, LlamaIndex, GCP TTS/STT) that automated 40% of staff inquiry volume, cutting response time from minutes to seconds.",
+        "Engineered a RAG pipeline on GCP with transformer-based embedding retrieval and DBT transformations; drove a 22% accuracy improvement over three iterations through A/B testing and causal analysis.",
+        "Built real-time monitoring dashboards tracking accuracy, deflection rate, and latency; communicated findings weekly to non-technical stakeholders."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Kameleon",
+      "dates": "May 2021 - Jul 2023",
+      "location": "Chennai, India",
+      "bullets": [
+        "Built a real-time behavioral anomaly detection system combining graph models (Neo4j) with XGBoost/Random Forest ensembles, processing 5M+ daily signals and reducing false positives by 18%.",
+        "Developed churn prediction (survival analysis, gradient boosting) and segmentation models (K-means, RFM) that informed retention campaigns lifting 90-day retention by 12-15%.",
+        "Owned full MLOps lifecycle with MLflow and SageMaker; architected PySpark/AWS ETL pipelines reducing manual processing time by 35%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Maryland, College Park",
+      "degree": "M.S. Information Systems",
+      "dates": "Dec 2024",
+      "notes": "Coursework: Machine Learning, Data Engineering, Statistical Analysis, Database Systems"
+    },
+    {
+      "school": "IIITDM Kancheepuram",
+      "degree": "B.Tech, Mechanical Engineering with Smart Manufacturing",
+      "dates": "May 2022",
+      "notes": "Published: Springer -- ML-Based Thermal Error Modeling, bagged decision trees (25% defect reduction)"
+    }
+  ],
+  "certifications": [
+    "AWS Certified AI Practitioner (AIF-C01) -- Feb 2025"
+  ]
+}
