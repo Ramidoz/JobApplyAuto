@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "last_updated": "2026-03-11T17:10:00Z",
+  "last_updated": "2026-03-11T23:24:41Z",
   "applications": [
     {
       "id": "teramind-senior-ds-2026-03-11",
@@ -14,7 +14,10 @@
       "cover_letter_path": "output/cover_letters/Teramind_SeniorDataScientist_CoverLetter.docx",
       "outreach_draft": "output/outreach_drafts/Teramind_SeniorDataScientist_outreach.md",
       "notes": "Remote global. Building new DS org from scratch — great opportunity. H1B history unknown, research needed.",
-      "follow_up_dates": ["2026-03-16", "2026-03-21"]
+      "follow_up_dates": [
+        "2026-03-16",
+        "2026-03-21"
+      ]
     },
     {
       "id": "ageoflearning-senior-ds-2026-03-11",
@@ -28,7 +31,10 @@
       "cover_letter_path": "output/cover_letters/AgeOfLearning_SeniorDataScientist_CoverLetter.docx",
       "outreach_draft": "output/outreach_drafts/AgeOfLearning_SeniorDataScientist_outreach.md",
       "notes": "EdTech SaaS. 45 H1B LCAs filed 2022-2024 — confirmed sponsor. Salary $140k-$170k.",
-      "follow_up_dates": ["2026-03-16", "2026-03-21"]
+      "follow_up_dates": [
+        "2026-03-16",
+        "2026-03-21"
+      ]
     },
     {
       "id": "theathletic-senior-ds-2026-03-11",
@@ -42,7 +48,10 @@
       "cover_letter_path": "output/cover_letters/TheAthletic_SeniorDataScientist_CoverLetter.docx",
       "outreach_draft": "output/outreach_drafts/TheAthletic_SeniorDataScientist_outreach.md",
       "notes": "NYT-backed subscription media. Strong product/ML fit. H1B likely given NYT parent company size.",
-      "follow_up_dates": ["2026-03-16", "2026-03-21"]
+      "follow_up_dates": [
+        "2026-03-16",
+        "2026-03-21"
+      ]
     }
   ]
 }
