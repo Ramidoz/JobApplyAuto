@@ -9,6 +9,9 @@ output/resumes/*.docx
 output/cover_letters/*.docx
 output/outreach_drafts/
 
+# Logs (keep directory, ignore log files)
+logs/*.log
+
 # Python
 __pycache__/
 *.pyc
