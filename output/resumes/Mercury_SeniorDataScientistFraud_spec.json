@@ -1,0 +1,67 @@
+{
+  "candidate": {
+    "name": "Rohit Ananthan",
+    "tagline": "Senior Data Scientist  |  Fraud Detection & ML  |  Risk Analytics  |  Production Model Deployment",
+    "contact": "+1 (202) 989-9596  |  rohitananthan123@gmail.com  |  linkedin.com/in/rohit-ananthan  |  rohitananthan.info"
+  },
+  "profile": "Data Scientist with 4+ years building production ML systems for fraud detection, anomaly detection, and risk analytics -- owning the full lifecycle from feature engineering to deployed models and monitoring dashboards. Deep expertise in Python, SQL, XGBoost, graph-based anomaly detection, and MLOps in cloud environments. Track record of shipping real-time systems that process millions of daily transactions while translating model outputs into actionable risk decisions for business stakeholders.",
+  "skills": [
+    {"label": "Languages & ML", "value": "Python (pandas, NumPy, scikit-learn, PySpark), SQL, R, XGBoost, Random Forest, gradient boosting, survival analysis, anomaly detection, graph ML (Neo4j)"},
+    {"label": "Fraud & Risk", "value": "Real-time fraud detection, graph-based anomaly detection, false positive reduction, risk signal modeling, behavioral analytics, ATO detection"},
+    {"label": "Experimentation", "value": "A/B testing, causal inference, hypothesis design, statistical significance, metric frameworks"},
+    {"label": "AI & LLMs", "value": "RAG pipelines, LangChain, LlamaIndex, Gemini Pro, NLP, MLflow, embedding search"},
+    {"label": "Data Stack", "value": "DBT, Snowflake, BigQuery, Airflow, PostgreSQL, MySQL, ETL design, PySpark"},
+    {"label": "Cloud & MLOps", "value": "AWS (S3, EC2, Lambda, SageMaker), GCP (BigQuery, Vertex AI), Docker, GitHub Actions, model versioning, automated retraining"},
+    {"label": "Visualization", "value": "Tableau, Power BI, matplotlib, seaborn"}
+  ],
+  "experience": [
+    {
+      "title": "Data Scientist Consultant",
+      "company": "Invision Global Tech Inc.",
+      "dates": "Feb 2026 - Present",
+      "location": "United States, Remote",
+      "bullets": [
+        "Scoping and prototyping fraud detection ML pipelines and NLP classification systems for incoming client engagements using Python, XGBoost, and transformer-based models.",
+        "Designing experiment frameworks and metric tracking infrastructure to enable rapid model evaluation and monitoring for new fraud detection deployments."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Community Dreams Foundation",
+      "dates": "Feb 2025 - Feb 2026",
+      "location": "United States, Remote",
+      "bullets": [
+        "Defined a product metrics framework and built real-time monitoring dashboards tracking accuracy, deflection rate, and latency; drove a 22% accuracy improvement through iterative model evaluation.",
+        "Engineered a RAG pipeline on GCP with DBT transformations and structured monitoring; communicated findings to stakeholders to drive product decisions."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Kameleon",
+      "dates": "May 2021 - Jul 2023",
+      "location": "Chennai, India",
+      "bullets": [
+        "Built a real-time fraud detection system combining graph-based anomaly detection (Neo4j) with XGBoost and Random Forest ensembles, processing 5M+ daily transactions and reducing false positives by 18%.",
+        "Architected and maintained production ETL pipelines (PySpark, AWS S3/Lambda/Glue) reducing manual processing time by 35%; owned full MLOps lifecycle with MLflow and SageMaker.",
+        "Developed customer segmentation and churn prediction models informing retention campaigns that lifted 90-day retention by 12-15%; delivered executive Tableau dashboards for fraud trend reporting."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Maryland, College Park",
+      "degree": "M.S. Information Systems",
+      "dates": "Dec 2024",
+      "notes": "Coursework: Machine Learning, Data Engineering, Statistical Analysis, Database Systems"
+    },
+    {
+      "school": "IIITDM Kancheepuram",
+      "degree": "B.Tech, Mechanical Engineering with Smart Manufacturing",
+      "dates": "May 2022",
+      "notes": "Published: Springer -- ML-Based Thermal Error Modeling, bagged decision trees (25% defect reduction)"
+    }
+  ],
+  "certifications": [
+    "AWS Certified AI Practitioner (AIF-C01) -- Feb 2025"
+  ]
+}

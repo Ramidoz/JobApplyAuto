@@ -1,0 +1,68 @@
+{
+  "candidate": {
+    "name": "Rohit Ananthan",
+    "tagline": "Senior Data Scientist  |  Experimentation & A/B Testing  |  Product Analytics  |  ML & MLOps",
+    "contact": "+1 (202) 989-9596  |  rohitananthan123@gmail.com  |  linkedin.com/in/rohit-ananthan  |  rohitananthan.info"
+  },
+  "profile": "Data Scientist with 4+ years partnering with product and engineering teams to define KPIs, design experiments, and deploy machine learning systems that drive measurable product outcomes. Deep expertise in Python, SQL, A/B testing, and causal inference, with a hands-on track record building data foundations and analytics pipelines in cloud environments (GCP, AWS). Most effective in product-led SaaS teams where rigorous experimentation and self-serve analytics directly shape roadmap decisions.",
+  "skills": [
+    {"label": "Languages", "value": "Python (pandas, NumPy, scikit-learn, PySpark), SQL, R"},
+    {"label": "Experimentation", "value": "A/B testing, causal inference, hypothesis design, statistical significance, metric frameworks, segmentation"},
+    {"label": "Data Stack", "value": "DBT, Snowflake, BigQuery, Airflow, Fivetran, PostgreSQL, ETL design, PySpark"},
+    {"label": "ML & Modeling", "value": "XGBoost, Random Forest, predictive modeling, survival analysis, NLP, anomaly detection, clustering"},
+    {"label": "AI & LLMs", "value": "RAG pipelines, LangChain, LlamaIndex, Gemini Pro, prompt engineering, MLflow"},
+    {"label": "Cloud & MLOps", "value": "AWS (S3, EC2, Lambda, SageMaker), GCP (BigQuery, Vertex AI, Cloud TTS/STT), Docker, GitHub Actions"},
+    {"label": "Visualization", "value": "Tableau, Power BI, matplotlib, seaborn"}
+  ],
+  "experience": [
+    {
+      "title": "Data Scientist Consultant",
+      "company": "Invision Global Tech Inc.",
+      "dates": "Feb 2026 - Present",
+      "location": "United States, Remote",
+      "bullets": [
+        "Scoping and prototyping ML solutions with experiment frameworks and metric tracking infrastructure to enable rapid A/B testing and model evaluation across new client deployments.",
+        "Designing hypothesis testing pipelines and KPI dashboards to surface actionable insights for product and business stakeholders."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Community Dreams Foundation",
+      "dates": "Feb 2025 - Feb 2026",
+      "location": "United States, Remote",
+      "bullets": [
+        "Defined a product metrics framework (answer accuracy, task completion, deflection rate, latency) and built monitoring dashboards that surfaced model degradation; drove a 22% accuracy improvement over three A/B-tested iterations.",
+        "Engineered a RAG pipeline on GCP combining structured knowledge bases and unstructured documents; wrote DBT transformations to normalize and version data for downstream retrieval and analysis.",
+        "Collaborated with non-technical stakeholders weekly to translate model performance data into product decisions, bridging data science and business context."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Kameleon",
+      "dates": "May 2021 - Jul 2023",
+      "location": "Chennai, India",
+      "bullets": [
+        "Developed customer segmentation models (K-means, RFM) and churn prediction (survival analysis, gradient boosting) that informed retention campaigns lifting 90-day retention by 12-15%.",
+        "Architected and maintained production ETL pipelines (PySpark, AWS S3/Lambda/Glue) and delivered executive-facing Tableau dashboards for business trend reporting.",
+        "Owned MLOps lifecycle with MLflow and SageMaker: experiment tracking, model versioning, production endpoint deployment, and automated retraining on performance drift."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Maryland, College Park",
+      "degree": "M.S. Information Systems",
+      "dates": "Dec 2024",
+      "notes": "Coursework: Machine Learning, Data Engineering, Statistical Analysis, Database Systems"
+    },
+    {
+      "school": "IIITDM Kancheepuram",
+      "degree": "B.Tech, Mechanical Engineering with Smart Manufacturing",
+      "dates": "May 2022",
+      "notes": "Published: Springer -- ML-Based Thermal Error Modeling, bagged decision trees (25% defect reduction)"
+    }
+  ],
+  "certifications": [
+    "AWS Certified AI Practitioner (AIF-C01) -- Feb 2025"
+  ]
+}

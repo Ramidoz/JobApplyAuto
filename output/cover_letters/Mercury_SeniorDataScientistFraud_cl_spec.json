@@ -1,0 +1,10 @@
+{
+  "candidate": {
+    "name": "Rohit Ananthan",
+    "contact": "rohitananthan123@gmail.com  |  linkedin.com/in/rohit-ananthan  |  rohitananthan.info"
+  },
+  "date": "March 11, 2026",
+  "company": "Mercury",
+  "role": "Senior Data Scientist - Fraud",
+  "body": "Dear Hiring Team,\n\nI'm a data scientist with 4+ years building production fraud detection systems -- and I'm applying for the Senior Data Scientist - Fraud role at Mercury. Mercury's ambition to build the financial operating system for startups, serving 300K+ businesses while expanding into invoicing, expense management, and credit, means fraud complexity scales alongside the product. That's an interesting problem, and it's one I've been working on.\n\nFraud detection is where I've done some of my sharpest work. At Kameleon, I built a real-time system combining graph-based anomaly detection (Neo4j) with XGBoost and Random Forest ensembles, processing 5M+ daily transactions and reducing false positives by 18%. I owned the full MLOps lifecycle with MLflow and SageMaker -- experiment tracking, model versioning, production deployment, and automated retraining triggered on performance drift. At Invision Global Tech, I'm currently prototyping fraud detection pipelines for new client engagements using transformer-based models and XGBoost.\n\nWhat I'd bring to Mercury's Fraud and Limits team: the ability to build, validate, and deploy ML models that catch fraud in real time -- and build the dashboards and observability infrastructure to know when they stop working. I translate model outputs into risk decisions that non-technical stakeholders can act on, which matters as much as model accuracy. My portfolio is at rohitananthan.info.\n\nWould love to connect.\n\nRohit Ananthan\nrohitananthan123@gmail.com | linkedin.com/in/rohit-ananthan | rohitananthan.info"
+}

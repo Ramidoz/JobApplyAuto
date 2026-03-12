@@ -1,0 +1,10 @@
+{
+  "candidate": {
+    "name": "Rohit Ananthan",
+    "contact": "rohitananthan123@gmail.com  |  linkedin.com/in/rohit-ananthan  |  rohitananthan.info"
+  },
+  "date": "March 11, 2026",
+  "company": "Alpaca",
+  "role": "Senior Data Scientist",
+  "body": "Dear Hiring Team,\n\nI'm a data scientist with 4+ years deploying production ML systems and agentic AI pipelines -- and I'm applying for the Senior Data Scientist role at Alpaca. Alpaca's mission to democratize global access to financial markets through API-first brokerage infrastructure is compelling precisely because the data science challenges it surfaces -- predictive analytics across trading behavior, agentic AI to surface insights, MLOps at scale -- are the problems I've been solving.\n\nLLMs and agentic AI frameworks aren't aspirational for me -- they're how I've shipped things. At Community Dreams Foundation I designed and deployed an AI Voice FAQ Assistant (Gemini Pro, LangChain, LlamaIndex, GCP) that automated 40% of staff inquiry volume using agentic retrieval-augmented generation. I built the full RAG pipeline, wrote DBT transformations to version knowledge bases in Snowflake, and defined the metrics framework (accuracy, deflection, latency) that drove a 22% model improvement. At Kameleon, I owned end-to-end MLOps with MLflow and SageMaker: experiment tracking, versioning, production endpoint deployment, and automated retraining on drift. I have hands-on experience across Snowflake, BigQuery, dbt, and cloud-native ML infrastructure.\n\nWhat I'd bring to Alpaca: the ability to own deep predictive and descriptive analytics across product and marketing metrics, build and ship agentic AI solutions, and keep them running reliably in production. My portfolio at rohitananthan.info shows how I approach these problems end to end.\n\nWould love to connect.\n\nRohit Ananthan\nrohitananthan123@gmail.com | linkedin.com/in/rohit-ananthan | rohitananthan.info"
+}

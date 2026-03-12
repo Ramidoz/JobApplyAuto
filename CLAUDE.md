@@ -1,5 +1,5 @@
 # CLAUDE.md
-# Last updated: 2026-03-11
+# Last updated: 2026-03-12
 
 ## Who I am
 I'm a data scientist with 4+ years of experience, currently on the job market. I specialize in deploying AI agents and automation at a level that can replace entire team workflows — and I'm positioning myself as that rare hire who brings both deep data science expertise and cutting-edge agentic AI skills.
@@ -46,3 +46,12 @@ My job search runs across multiple channels:
 - Position myself as someone who can automate workflows and replace the output of entire teams
 - Land a remote-first role at a SaaS company that values high-leverage, autonomous contributors
 - Build a reputation and portfolio that reflects next-generation data science — not just traditional ML
+
+## Portfolio and project documentation (critical habit)
+Every project I build — especially anything involving AI agents, automation, data pipelines, or ML — must be documented and published publicly to validate my claimed experience:
+- **GitHub**: Push all project code to GitHub with clean READMEs explaining what it does, why it matters, and how to run it
+- **Portfolio site**: Surface notable projects on rohitananthan.info with descriptions that connect them to real-world impact
+- Every project should tell a story: what problem it solved, what tech stack was used, and what the measurable outcome was
+- Treat every side project, tool, or automation as a portfolio artifact — not throwaway work
+- When helping me build anything, always remind me to document and publish it if I haven't mentioned doing so
+- Projects referencing AI agents, LLMs, or automation pipelines carry extra weight — these should always be showcased

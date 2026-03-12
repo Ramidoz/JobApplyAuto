@@ -1,0 +1,68 @@
+{
+  "candidate": {
+    "name": "Rohit Ananthan",
+    "tagline": "Senior Data Scientist  |  LLMs & Agentic AI  |  MLOps  |  Financial Analytics",
+    "contact": "+1 (202) 989-9596  |  rohitananthan123@gmail.com  |  linkedin.com/in/rohit-ananthan  |  rohitananthan.info"
+  },
+  "profile": "Data Scientist with 4+ years delivering production ML systems and agentic AI solutions that drive measurable business impact -- owning the full lifecycle from feature engineering and model development through MLOps, deployment, and monitoring. Deep expertise in Python, SQL, LLMs, RAG pipelines, and cloud-native data infrastructure (Snowflake, BigQuery, AWS SageMaker). Track record building predictive and descriptive analytics systems in fast-moving fintech and product environments, translating complex model outputs into clear business decisions.",
+  "skills": [
+    {"label": "Languages & ML", "value": "Python (pandas, NumPy, scikit-learn, PySpark), SQL, R, XGBoost, Random Forest, clustering, survival analysis, NLP, anomaly detection"},
+    {"label": "AI & LLMs", "value": "RAG pipelines, LangChain, LlamaIndex, Gemini Pro, agentic AI frameworks, LLM deployment, prompt engineering, embedding search, MLflow"},
+    {"label": "MLOps", "value": "MLflow, SageMaker, model versioning, experiment tracking, automated retraining, production endpoint deployment, Docker, GitHub Actions"},
+    {"label": "Data Stack", "value": "Snowflake, BigQuery, Redshift, DBT, Airflow, PostgreSQL, MySQL, ETL design, PySpark"},
+    {"label": "Cloud", "value": "AWS (S3, EC2, Lambda, SageMaker), GCP (BigQuery, Vertex AI, Cloud TTS/STT)"},
+    {"label": "Experimentation", "value": "A/B testing, causal inference, hypothesis design, statistical significance, metric frameworks"},
+    {"label": "Visualization", "value": "Tableau, Power BI, matplotlib, seaborn"}
+  ],
+  "experience": [
+    {
+      "title": "Data Scientist Consultant",
+      "company": "Invision Global Tech Inc.",
+      "dates": "Feb 2026 - Present",
+      "location": "United States, Remote",
+      "bullets": [
+        "Scoping and prototyping ML solutions including fraud detection pipelines and NLP classification systems; designing experiment frameworks and metric tracking infrastructure for rapid model evaluation.",
+        "Prototyping agentic AI workflows using LangChain and LLM APIs to automate client engagement analysis and generate structured insights."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Community Dreams Foundation",
+      "dates": "Feb 2025 - Feb 2026",
+      "location": "United States, Remote",
+      "bullets": [
+        "Designed and shipped an AI Voice FAQ Assistant (Gemini Pro, LangChain, LlamaIndex, Google Cloud TTS/STT) leveraging agentic AI to automate 40% of staff inquiry volume, cutting response time from minutes to seconds.",
+        "Engineered a RAG pipeline on GCP combining structured knowledge bases with DBT transformations; defined metrics framework and drove a 22% accuracy improvement over three model iterations.",
+        "Built monitoring dashboards tracking answer accuracy, deflection rate, and latency; communicated model performance to non-technical stakeholders to shape product decisions."
+      ]
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Kameleon",
+      "dates": "May 2021 - Jul 2023",
+      "location": "Chennai, India",
+      "bullets": [
+        "Built a real-time fraud detection system (Neo4j graph models + XGBoost/Random Forest ensembles) processing 5M+ daily transactions, reducing false positives by 18%.",
+        "Owned MLOps lifecycle with MLflow and SageMaker: experiment tracking, model versioning, production endpoint deployment, and automated retraining on performance drift.",
+        "Developed churn prediction (survival analysis, gradient boosting) and segmentation (K-means, RFM) models informing retention campaigns lifting 90-day retention by 12-15%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Maryland, College Park",
+      "degree": "M.S. Information Systems",
+      "dates": "Dec 2024",
+      "notes": "Coursework: Machine Learning, Data Engineering, Statistical Analysis, Database Systems"
+    },
+    {
+      "school": "IIITDM Kancheepuram",
+      "degree": "B.Tech, Mechanical Engineering with Smart Manufacturing",
+      "dates": "May 2022",
+      "notes": "Published: Springer -- ML-Based Thermal Error Modeling, bagged decision trees (25% defect reduction)"
+    }
+  ],
+  "certifications": [
+    "AWS Certified AI Practitioner (AIF-C01) -- Feb 2025"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "candidate": {
+    "name": "Rohit Ananthan",
+    "contact": "rohitananthan123@gmail.com  |  linkedin.com/in/rohit-ananthan  |  rohitananthan.info"
+  },
+  "date": "March 11, 2026",
+  "company": "Webflow",
+  "role": "Senior Data Scientist",
+  "body": "Dear Hiring Team,\n\nI'm a data scientist with 4+ years shipping production ML systems and experimentation infrastructure -- and I'm applying for the Senior Data Scientist role at Webflow. What caught my attention: Webflow's 2025 launch of an MCP server enabling AI agents to interact with site data in real-time signals a company actively rethinking how data and AI intersect with product. That's exactly the space I want to be building in.\n\nExperimentation and product analytics aren't resume bullets for me -- they're how I've worked. At Community Dreams Foundation, I defined the full metrics framework for an AI Voice Assistant (answer accuracy, deflection rate, task completion, latency), ran iterative A/B tests, and drove a 22% accuracy improvement over three model cycles. I wrote DBT transformations to keep our Snowflake-backed pipelines clean and reproducible. At Kameleon, I built segmentation and churn models that directly informed retention campaigns lifting 90-day retention by 12-15%, and delivered Tableau dashboards that gave executives a real-time view of product health.\n\nThe thing I'd point to as most directly relevant here: I know how to work with product teams in ambiguous environments, define the right metrics before touching a model, and turn analysis into decisions -- not just reports. My portfolio at rohitananthan.info shows how I think through problems end to end.\n\nWould love to connect and talk through how I'd contribute to Webflow's data science roadmap.\n\nRohit Ananthan\nrohitananthan123@gmail.com | linkedin.com/in/rohit-ananthan | rohitananthan.info"
+}
